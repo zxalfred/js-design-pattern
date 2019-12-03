@@ -22,6 +22,7 @@ module.exports ={
     'func-names': [0],
     'no-return-assign': [0],
     'no-unused-vars': [1],
-    'no-underscore-dangle': [0]
+    'no-underscore-dangle': [0],
+    'consistent-return': [0]
   }
 }
