@@ -2,7 +2,8 @@ module.exports ={
   env: {
     browser: true,
     es6: true,
-    node: true
+    node: true,
+    jquery: true,
   },
   extends: [
     'airbnb-base'
@@ -23,6 +24,7 @@ module.exports ={
     'no-return-assign': [0],
     'no-unused-vars': [1],
     'no-underscore-dangle': [0],
-    'consistent-return': [0]
+    'consistent-return': [0],
+    'no-plusplus': [0]
   }
 }
