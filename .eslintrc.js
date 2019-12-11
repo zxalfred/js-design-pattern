@@ -25,6 +25,8 @@ module.exports ={
     'no-unused-vars': [1],
     'no-underscore-dangle': [0],
     'consistent-return': [0],
-    'no-plusplus': [0]
+    'no-plusplus': [0],
+    'no-param-reassign': [0],
+    'max-classes-per-file': [0]
   }
 }
