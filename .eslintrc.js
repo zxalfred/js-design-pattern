@@ -28,6 +28,7 @@ module.exports ={
     'no-plusplus': [0],
     'no-param-reassign': [0],
     'max-classes-per-file': [0],
-    'no-cond-assign': [0]
+    'no-cond-assign': [0],
+    'no-extend-native': [0]
   }
 }
